@@ -1,0 +1,2 @@
+# MapEditorScript
+draft
